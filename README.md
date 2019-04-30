@@ -1,4 +1,4 @@
-# Spammy Recruiters
+# Recruiters
 
 This is just a list of recruiter emails in gmail search format. You may want to use it to create a filter.
 
